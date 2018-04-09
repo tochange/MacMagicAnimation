@@ -1,7 +1,0 @@
-#Mon Apr 09 18:58:45 CST 2018
-base.0=/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe63505a7edd416b3e6d032c7b61b5c180813054
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31cdeadc022fbd9b97d657f5eed4ec9b4b808b0e/classes.dex
-base.1=/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31cdeadc022fbd9b97d657f5eed4ec9b4b808b0e
-file.0=/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe63505a7edd416b3e6d032c7b61b5c180813054/classes.dex
