@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

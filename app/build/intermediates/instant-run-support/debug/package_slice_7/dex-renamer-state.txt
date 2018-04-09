@@ -1,0 +1,4 @@
+#Mon Apr 09 18:04:53 CST 2018
+base.0=/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

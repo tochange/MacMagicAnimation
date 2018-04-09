@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:3:11-57
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:10:22-65
+application
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:12:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/joey/.android/build-cache/a9072912608349985377b77e5008271b3313e037/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/joey/.android/build-cache/692a53d2fbc408059d50f353bbbe9917c68756ab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/joey/.android/build-cache/8fd79b3709d733e8bfcacb4433b54eb5c40673cd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/joey/.android/build-cache/e30057205deace2f5443dbe12d790421611610cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/joey/.android/build-cache/fc2ca7511f4cedc6e7d98af95c835b8d7b88f0f9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/joey/.android/build-cache/b6dfc887f8304c4c55bbb4fd3503c6391e6a95ef/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/joey/.android/build-cache/f25c1733b4e92257d6fef899e81bce4d2d27fdf1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/joey/.android/build-cache/30e62c6e9c9a46b0cf661f884a922e12d2cc842a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/joey/.android/build-cache/13329857371a801c604f214d12e7281b0091f170/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:17:9-46
+activity#com.gplibs.magic_surface_view_sample.MacWindowAnimActivity
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:18:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/joey/.android/build-cache/a9072912608349985377b77e5008271b3313e037/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/joey/.android/build-cache/692a53d2fbc408059d50f353bbbe9917c68756ab/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/joey/.android/build-cache/8fd79b3709d733e8bfcacb4433b54eb5c40673cd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/joey/.android/build-cache/e30057205deace2f5443dbe12d790421611610cf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/joey/.android/build-cache/fc2ca7511f4cedc6e7d98af95c835b8d7b88f0f9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/joey/.android/build-cache/b6dfc887f8304c4c55bbb4fd3503c6391e6a95ef/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/joey/.android/build-cache/f25c1733b4e92257d6fef899e81bce4d2d27fdf1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/joey/.android/build-cache/30e62c6e9c9a46b0cf661f884a922e12d2cc842a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/joey/.android/build-cache/13329857371a801c604f214d12e7281b0091f170/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joey/Desktop/android-magic-surface-view-sample/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/joey/.android/build-cache/a9072912608349985377b77e5008271b3313e037/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/joey/.android/build-cache/692a53d2fbc408059d50f353bbbe9917c68756ab/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/joey/.android/build-cache/8fd79b3709d733e8bfcacb4433b54eb5c40673cd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/joey/.android/build-cache/e30057205deace2f5443dbe12d790421611610cf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/joey/.android/build-cache/fc2ca7511f4cedc6e7d98af95c835b8d7b88f0f9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/joey/.android/build-cache/b6dfc887f8304c4c55bbb4fd3503c6391e6a95ef/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/joey/.android/build-cache/f25c1733b4e92257d6fef899e81bce4d2d27fdf1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/joey/.android/build-cache/30e62c6e9c9a46b0cf661f884a922e12d2cc842a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/AndroidManifest.xml:26:9-47

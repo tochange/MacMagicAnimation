@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/692a53d2fbc408059d50f353bbbe9917c68756ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_575675f8c67d9454e8efc7ffc74ab2cb37854861/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/13329857371a801c604f214d12e7281b0091f170/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4ffe195cd76d17fb8512be48ab66a0cce974547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/f25c1733b4e92257d6fef899e81bce4d2d27fdf1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77791144fc5ae3520902c418e9d57c69d6b6a0c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/e30057205deace2f5443dbe12d790421611610cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2659ff5c6640f018b62b49adb6b7b3759dea090c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/30e62c6e9c9a46b0cf661f884a922e12d2cc842a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edb7a463ca856bd53ee192d7c2f8f2180439a15a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/8fd79b3709d733e8bfcacb4433b54eb5c40673cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0df0d85db9b5f6b0f247e1ced31d868dcbc3cba7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/b6dfc887f8304c4c55bbb4fd3503c6391e6a95ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b47812bb58f9ef47c121af146c96436d53511eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe63505a7edd416b3e6d032c7b61b5c180813054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/a9072912608349985377b77e5008271b3313e037/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c64171c79e91b8cb2de03a7b6f0296aa82e1ec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/fc2ca7511f4cedc6e7d98af95c835b8d7b88f0f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_326e24da200c602db58a1f24b75206d2902f83ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/.android/build-cache/e244e302752a511def38b7e0e4f0ec74aec30488/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c87a46bfdf46b7fc995c43f9903bf7b63b0b7a0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9daf086e5a63cb1a6d80256c87140395311df408/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9639c189f598fa10e8379de8999b0c1c8ccdf34c">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31cdeadc022fbd9b97d657f5eed4ec9b4b808b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joey/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/joey/Desktop/android-magic-surface-view-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_89b7f735be24b1b1017df7ab4f786856d7c53959/classes.dex" />
+    </item>
+
+</items>
